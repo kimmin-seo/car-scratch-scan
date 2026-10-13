@@ -52,10 +52,10 @@
 
  04. REPOSITORY STRUCTURE
 Plaintext
-📁 car-scratch-scan
- ┣ 📜 app.py      # [Main Engine] 2D 탐지 + Open3D 3D 매핑 통합 시뮬레이터
- ┣ 📜 best.pt     # [Model Weights] 커스텀 학습된 YOLOv8m 가중치 (로컬 주입 필요)
- ┗ 📜 README.md   # [Documentation] 프로젝트 가이드
+ car-scratch-scan
+ ┣ app.py      # [Main Engine] 2D 탐지 + Open3D 3D 매핑 통합 시뮬레이터
+ ┣ best.pt     # [Model Weights] 커스텀 학습된 YOLOv8m 가중치 (로컬 주입 필요)
+
  05. GETTING STARTED
  Prerequisite Libraries
 가상환경(Virtual Environment) 세팅 후 아래의 명령어를 통해 필수 라이브러리를 설치합니다.
