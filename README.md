@@ -10,6 +10,13 @@
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black">
 </p>
 
+<!-- GitHub Repository QR Code -->
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://github.com/kimmin-seo/car-scratch-scan" alt="GitHub QR Code">
+  <br>
+  <em>📷 스마트폰 카메라로 QR 코드를 스캔하여 모바일로 저장소에 방문해 보세요!</em>
+</p>
+
 </div>
 
 <br/>
@@ -36,6 +43,7 @@
  │ & Telemetry Monitor  │      │ (Zero Memory-Leak Map)  │
  └──────────────────────┘      └─────────────────────────┘
 
+
 💎 03. CORE FEATURES
 🔥 Custom YOLOv8m Inference Engine
 직접 수집 및 정제한 데이터셋으로 학습된 best.pt 가중치를 기반으로 미세 스크래치 결점 포착
@@ -50,12 +58,12 @@
 🛡️ Production-Ready Structure
 불필요한 콘솔 로그 오버헤드를 줄이고, 예외 처리(Exception Handling)를 적용하여 장시간 구동 시 안정성 확보
 
+📂 04. REPOSITORY STRUCTURE
+Plaintext
 📁 car-scratch-scan
  ┣ 📜 app.py      # [Main Engine] 2D 탐지 + Open3D 3D 매핑 통합 시뮬레이터
- ┣ 📜 best.pt     # [Model Weights] 커스텀 학습된 YOLOv8m 가중치 (Git LFS 혹은 로컬 주입)
+ ┣ 📜 best.pt     # [Model Weights] 커스텀 학습된 YOLOv8m 가중치 (로컬 주입 필요)
  ┗ 📜 README.md   # [Documentation] 프로젝트 가이드
-
-
 🚀 05. GETTING STARTED
 ⚙️ Prerequisite Libraries
 가상환경(Virtual Environment) 세팅 후 아래의 명령어를 통해 필수 라이브러리를 설치합니다.
