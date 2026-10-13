@@ -73,3 +73,9 @@ Tip: 프로그램 실행 중 언제든 윈도우 창에서 q 키를 누르면 �
 
 📌 NOTE
 대용량 바이너리 가중치 파일인 best.pt는 깃허브 저장소 용량 정책에 따라 업로드 목록에서 제외되었습니다. 로컬 환경에서 별도 빌드한 가중치를 주입 후 실행해 주세요.
+
+<div align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/kimmin-seo/car-scratch-scan" alt="GitHub QR Code">
+  <br>
+  <em>📷 스마트폰으로 스캔하여 저장소를 모바일로 확인하세요.</em>
+</div>
