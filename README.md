@@ -3,23 +3,6 @@
 # 🚗 Real-Time Car Scratch Detection & 3D Spatial Mapping
 **실시간 비전 AI와 3D 공간 시뮬레이션을 융합한 지능형 결함 검출 프로토타입**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black">
-</p>
-
-<!-- GitHub Repository QR Code -->
-<p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://github.com/kimmin-seo/car-scratch-scan" alt="GitHub QR Code">
-  <br>
-  <em>📷 스마트폰 카메라로 QR 코드를 스캔하여 모바일로 저장소에 방문해 보세요!</em>
-</p>
-
-</div>
-
-<br/>
 
 ## ⚡ 01. OVERVIEW & CONCEPT
 > **"단순한 이미지 인식을 넘어, 3D 가상 공간에 결함을 입체적으로 기록합니다."**
@@ -81,3 +64,21 @@ Tip: 프로그램 실행 중 언제든 윈도우 창에서 q 키를 누르면 �
 
 📌 NOTE
 대용량 바이너리 가중치 파일인 best.pt는 깃허브 저장소 용량 정책에 따라 업로드 목록에서 제외되었습니다. 로컬 환경에서 별도 빌드한 가중치를 주입 후 실행해 주세요.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black">
+</p>
+
+<!-- GitHub Repository QR Code -->
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://github.com/kimmin-seo/car-scratch-scan" alt="GitHub QR Code">
+  <br>
+  <em>📷 스마트폰 카메라로 QR 코드를 스캔하여 모바일로 저장소에 방문해 보세요!</em>
+</p>
+
+</div>
+
+<br/>
