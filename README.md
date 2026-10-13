@@ -74,6 +74,3 @@ Tip: 프로그램 실행 중 언제든 윈도우 창에서 q 키를 누르면 �
 📌 NOTE
 대용량 바이너리 가중치 파일인 best.pt는 깃허브 저장소 용량 정책에 따라 업로드 목록에서 제외되었습니다. 로컬 환경에서 별도 빌드한 가중치를 주입 후 실행해 주세요.
 
-
----
- <img width="380" height="407" alt="image" src="https://github.com/user-attachments/assets/28b34ac9-f52c-4065-8329-17feb76e0f76" />
